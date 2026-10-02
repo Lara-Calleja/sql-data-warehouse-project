@@ -25,5 +25,19 @@ Develop a modern data warehouse using PostgreSQL Server to consolidate sales dat
 ### BI Analytics & Reporting (Data Analytics)
 
 #### Objective
-Deveop SQL-based analytics to deliver detailed insights into:
+Develop SQL-based analytics to deliver detailed insights into:
 - **Customer Behavior**
+- **Product Performance**
+- **Sales Trends**
+
+These insights empower stakeholders with key business metrics, enabling strategic decision making.
+
+---
+
+## License
+
+This project is licensed under the [MIT License].(LICENSE). You are fee to use, modify, and share this project with proper attribution.
+
+## About Me
+
+Hi there!  I am Lara. I am an Analytics Engineer.
